@@ -8,6 +8,6 @@ app.use(express.json());
 app.use(post);
 app.use(get);
 
-app.listen(3000,'0.0.0.0',() => {
+app.listen(process.env.PORT || 3000 ,'0.0.0.0',() => {
     console.log("Server is running");
 });
