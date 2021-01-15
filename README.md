@@ -1,6 +1,6 @@
 # Envio e Leitura de cartas
 
-REST API desenvolvido utilizando a linguagem de programação NodeJS.
+REST API desenvolvido utilizando a linguagem de programação NodeJS. Para hospedagem do mesmo, foi usado a plataforma Heroku.
 
 Para Utilização do REST API:
 
